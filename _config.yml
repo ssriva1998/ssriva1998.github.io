@@ -1,0 +1,35 @@
+title: "Rep(i,n)"
+author: "Siddhartha Srivastava"
+description: "Really cool blog about ... something"
+more: "read more »"
+url: "https://ssriva1998.github.io/"
+baseurl: ""
+paginate: 2
+paginate_path: "/blog/page:num"
+permalink: pretty
+excerpt_separator: "\n\n\n" # two blank lines
+
+style:
+  minimalist: false
+  dark: false
+
+navigation:
+  - index.md
+  - tracking.md
+  - puzzles.md
+  - blog.md
+
+comments:
+#  disqus: "disqus-contrast"
+#  isso: "comments.mysite.org"
+
+links: # see http://fontawesome.io/icons/#brand for all possible icons
+  #- twitter: "https://twitter.com/twitter/"
+  - github: "https://github.com/ssriva1998"
+  - envelope: "mailto:ssriva1998@gmail.com"
+
+mathjax: true
+
+defaults: [{scope: {path: ""}, values: {layout: "default"}}, {scope: {path: "", type: "posts"}, values: {comments: true}}]
+sass: {style: expanded}
+plugins: [jekyll-feed, jekyll-paginate]
