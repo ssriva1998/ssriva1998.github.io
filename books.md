@@ -8,10 +8,10 @@ Going to use this to catalog what books I've been reading so that I can remember
 
 ### Books I've read
 
-- Artemis Fowl 1 (Start: 26/05/19 | Finish: 26/05/19)
-- Turtles All the Way Down (Start: 03/06/19 | Finish: 26/05/19)
-- The Curious Incident of the Dog at Night Time (Start: 05/06/19 | Finish: 05/06/19)
-- Do Androids Dream of Electric Sheep (Start: 05/06/19 | Finish: 05/06/19)
-- Waiting for Godot (Start: 14/06/19 | Finish: NA)
+- Artemis Fowl 1 (Start: 26/05/19 Finish: 26/05/19)
+- Turtles All the Way Down (Start: 03/06/19 Finish: 26/05/19)
+- The Curious Incident of the Dog at Night Time (Start: 05/06/19 Finish: 05/06/19)
+- Do Androids Dream of Electric Sheep (Start: 05/06/19 Finish: 05/06/19)
+- Waiting for Godot (Start: 14/06/19 Finish: NA)
 
 
