@@ -4,7 +4,11 @@ title: "Books"
 
 ### About
 
-Going to use this to catalog what books I've been reading so that I can remember. Also because I like lists.
+I'm going to use this to catalog what books I've been reading so that I can remember. Also because I like lists.
+
+### Books I'm reading
+
+- Liar's Poker (Start: 22/06/19 Finish: NA)
 
 ### Books I've read
 
@@ -15,5 +19,3 @@ Going to use this to catalog what books I've been reading so that I can remember
 - Waiting for Godot (Start: 14/06/19 Finish: NA)
 - Flash Boys (Start: 20/06/19 Finish: 21/06/19)
 - Perks of being a Wallflower (Start: 21/06/19 Finish: 21/06/19)
-- Liar's Poker (Start: 22/06/19 Finish: NA)
-
