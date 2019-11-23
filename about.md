@@ -4,7 +4,7 @@ title: "About"
 
 ### About Me
 
-I'm Siddhartha Srivastava, a third year undergraduate in the department of Mathematics and Scientific Computing. 
+I'm Siddhartha Srivastava, a fourth year undergraduate in the department of Mathematics and Scientific Computing.
 
 ### This Blog
 
