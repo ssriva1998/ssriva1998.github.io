@@ -8,7 +8,7 @@ I'm going to use this to catalog what books I've been reading so that I can reme
 
 ### Books I'm reading
 
-- Liar's Poker (Start: 22/06/19 Finish: NA)
+- How to win Friends and Influence People (Start: Don't remember)
 
 ### Books I've read
 
@@ -19,3 +19,4 @@ I'm going to use this to catalog what books I've been reading so that I can reme
 - Waiting for Godot (Start: 14/06/19 Finish: NA)
 - Flash Boys (Start: 20/06/19 Finish: 21/06/19)
 - Perks of being a Wallflower (Start: 21/06/19 Finish: 21/06/19)
+- Liar's Poker (Start: 22/06/19 Finish: Don't remember)
