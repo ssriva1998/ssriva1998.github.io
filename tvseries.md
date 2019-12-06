@@ -8,6 +8,6 @@ I probably will use this to catalog all TV Series I'm watching or watched.
 
 ### TV Series Currently Watching
 
-- Bojack Horseman (Started 24/11/19): Currently finished Season 2.
+- Bojack Horseman (Started 24/11/19): Currently finished Season 4.
 
 ### TV Series Watched
