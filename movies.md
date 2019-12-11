@@ -6,7 +6,7 @@ title: "Movies"
 
 I probably will use this to catalog all movies I'm watching or watched.
 
-### Movies Currently Watching
-
-
 ### Movies Watched
+
+- Primal Fear (10/12/2019)
+- Eternal Sunshine of the Spotless Mind (11/12/2019)
