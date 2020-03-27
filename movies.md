@@ -13,3 +13,4 @@ I probably will use this to catalog all movies I'm watching or watched.
 - Inside Job (16/2/2020)
 - Enron: The Smartest Guys in the room (17/2/2020)
 - The Trials of Henry Kissinger (18/2/2020)
+- Silver Linings Playbook

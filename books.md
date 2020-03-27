@@ -8,7 +8,7 @@ I'm going to use this to catalog what books I've been reading so that I can reme
 
 ### Books I'm reading
 
-
+- The Milkman
 
 ### Books I've read
 
@@ -22,4 +22,7 @@ I'm going to use this to catalog what books I've been reading so that I can reme
 - Liar's Poker (Start: 22/06/19 Finish: Don't remember)
 - How to win Friends and Influence People (Start: Don't remember Finish: Don't remember)
 - Inkheart (Start: Don't remember Finish: Don't remember)
-- Hitchhikers' Guide to the Galaxy 
+- Hitchhikers' Guide to the Galaxy
+- Girl, Woman, Other
+- 39 Clues (Books 1 - 10)
+- The Handmaid's Tale
