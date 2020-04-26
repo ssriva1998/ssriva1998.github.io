@@ -14,3 +14,4 @@ I probably will use this to catalog all movies I'm watching or watched.
 - Enron: The Smartest Guys in the room (17/2/2020)
 - The Trials of Henry Kissinger (18/2/2020)
 - Silver Linings Playbook
+- AlphaGo: The Movie (24/4/2020)
