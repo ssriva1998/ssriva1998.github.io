@@ -2,6 +2,7 @@
 layout: post
 title: 'What do I write about'
 tag: 'personal'
+categories: 'personal'
 ---
 
 One of the skills that I've always felt I've been lacking is my ability to write long-form. The ability to eloquently portray my thoughts to someone reading what I've written is not something that I've been very good at. The primary reason why is a lack of practice. It's been a long time since I've actually sat down and just written. The major roadblock that I do face whenever I sit down to write something is what do I write about. It's effectively writer's block even though I've not even started writing. Do I go overboard and analyze what people write about and try to understand the type of content that is of use to people so that anything I write here doesn't devolve into having a readership of exactly 2 people (Hi!) regularly and one person who somehow stumbles upon my website, looks around at my website and realizes that it's just random musing with no context whatsoever. 

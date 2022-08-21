@@ -4,9 +4,7 @@ description: "Really cool blog about ... something"
 more: "read more »"
 url: "https://ssriva1998.github.io/"
 baseurl: ""
-paginate: 2
-paginate_path: "/blog/page:num"
-permalink: pretty
+permalink: /:categories/:title.html
 excerpt_separator: "\n\n\n" # two blank lines
 
 style:
@@ -32,4 +30,4 @@ mathjax: true
 
 defaults: [{scope: {path: ""}, values: {layout: "default"}}, {scope: {path: "", type: "posts"}, values: {comments: true}}]
 sass: {style: expanded}
-plugins: [jekyll-feed, jekyll-paginate]
+plugins: [jekyll-feed]

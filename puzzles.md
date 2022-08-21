@@ -8,7 +8,13 @@ I've always wanted to have a blog where I put solved puzzles. I guess I'll try.
 
 ### Puzzles
 
-{% for tag in site.tags %}
+<ul>
+  {% for puzzle in site.categories.puzzles %}
+    <li><a href="{{ puzzle.url }}">{{ puzzle.title }}</a></li>
+  {% endfor %}
+</ul>
+
+<!-- {% for tag in site.tags %}
   {% if tag[0] == "puzzle" %}
   <ul>
     {% for post in tag[1] %}
@@ -16,4 +22,4 @@ I've always wanted to have a blog where I put solved puzzles. I guess I'll try.
     {% endfor %}
   </ul>
   {% endif %}
-{% endfor %}
+{% endfor %} -->
