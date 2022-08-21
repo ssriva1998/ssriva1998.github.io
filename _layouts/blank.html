@@ -21,7 +21,7 @@
   </nav>
 </header>
 {{ content }}
-{% if page.next_in_category or page.previous_in_category %}
+{% if page.next_in_category or page.previous_in_category or page.solution%}
 <footer>
   {% if page.next_in_category.url %}
     <a href="{{ page.next_in_category.url | prepend: site.baseurl }}">« {{ page.next_in_category.title }}</a>{% else %} <span></span> 
