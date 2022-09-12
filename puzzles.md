@@ -10,7 +10,9 @@ I've always wanted to have a blog where I put solved puzzles. I guess I'll try.
 
 <ul>
   {% for puzzle in site.categories.puzzles %}
-    <li><a href="{{ puzzle.url }}">{{ puzzle.title }}</a></li>
+    {% if puzzle.tag == "puzzle" %}
+      <li><a href="{{ puzzle.url }}">{{ puzzle.title }}</a></li>
+    {% endif %}
   {% endfor %}
 </ul>
 
