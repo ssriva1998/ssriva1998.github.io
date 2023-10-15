@@ -4,7 +4,7 @@ title: "Tracking"
 
 ### About
 
-I enjoy obsessively cataloging things, so this page is just a way for me to maintain a list of everything I'm tracking at this point. 
+I enjoy cataloging things, so this page is just a way for me to maintain a list of everything I'm tracking at this point. 
 
 ### Links
 
