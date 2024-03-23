@@ -1,0 +1,40 @@
+I"�<p>I was really lucky when it came to competitive programming. I got lucky in that it was an activity that I enjoyed, an activity that I started off slightly better than others because I had Math Olympaid prep and most importantly, was an activity that did not doom my job prospects. I think at IIT Kanpur, it’s really tough choosing what to do because there are a lot of smart people. This makes it becomes hard to determine what activities will actually help you in life, because for any activity you will find a few people that will end up doing really well since the base rate of people from IIT Kanpur doing great things is really high. You could decide to rollerskate and find that there are few seniors who you later find out had a perfect 10 and are going to do a PhD at MIT.</p>
+
+<p>For that reason, and many others, a lot of people end up asking me whether competitive programming was worth it or whether it was just luck that people do well. It’s a hard question for me to answer because I never thought about when I decided to start doing it. It does on average however seem to result in slightly better job outcomes for students who pursue it - but this again was never really explored in a rigorous manner, at some level it may be just blind luck.</p>
+
+<p>This has been on the back of my mind until I noticed this tweet (insert tweet here).</p>
+
+<p>I assumed (incorrectly) that they used the Codeforces API to scrape this information, so I decided to see use it myself how many people from IIT Kanpur ever had a rating above 1900. Running a small script, I found there were roughly 98 people (though there may be a few more since some people did not set their institution as IIT Kanpur or a few less since some people ended up creating alt accounts). 98 people was a lot to analyse, so I decided to look at the people who have had at any point of time had a rating above 2100. This turned out to be roughly 38 people, who I’ve listed below.</p>
+
+<div class="sheetiframe-container">
+    <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRrvBibr6eSwRVV3ntSte_ENA9oYbD7zw8dlRQXNTXD0O6p-KtOc5BqqLN-nBKugQ/pubhtml?gid=1292932476&amp;single=true&amp;widget=true&amp;headers=false" class="sheetiframe"></iframe>
+</div>
+
+<p>This is a smaller list to analyse, so I decided to see if there are some interesting statistics. The one interesting thing is that almost everyone is doing great and was or is at a company that comes on day 1 of placements. A majority are from CSE, a few from Math and Electrical and some from Civil which is surprising. A good chunk of people are at either Glean, Rubrik or Google, which are target companies for most of the students involved. A good chunk are still currently students, but seem to have internships at trading firms, so they’re doing really good as well. I think the larger interesting point is that almost everyone who hits 2100 at any point of time does really well. In fact, they do better the CSE cohort. An apples to apples comparison isn’t really possible, but it’s an interesting statistic that there’s a higher probability of a non CSE &gt;2100 rated coder getting into Google than an average CSE student.</p>
+
+<p>It would be unfair to not discuss the few obvious flaws in this discussion.</p>
+
+<ul>
+  <li>The data is skewed towards recent graduates - due to rating inflation, it’s easier to hit 2100 now than it was 5 years ago. Codeforces is also relatively new, so lots of older alumnus didn’t use Codeforces. This means that we’re essentially analysing early career data. Only 5-6 people in this list graduated before 2020.</li>
+  <li>Competitive programming is essentially “teaching the test” - most companies have tests where you have an advantage if you’ve done competitive programming. This means that it’s relatively easy to break in early on,</li>
+</ul>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>import requests
+import json
+
+# Set the institution name or any other criteria you want to filter users by
+
+# Get the list of all rated users
+rated_users_url = "https://codeforces.com/api/user.ratedList?activeOnly=false&amp;includeRetired=true"
+# rated_users_url = "https://codeforces.com/api/user.ratedList"
+rated_users_response = requests.get(rated_users_url)
+rated_users_data = json.loads(rated_users_response.text)
+
+rs = rated_users_data["result"]
+iitk_users = []
+for it in rs:
+    if(('organization' in it) and (it['organization'] == 'IIT Kanpur') and (it['maxRating'] &gt;= 2100)):
+        iitk_users.append(it)
+        print(f"{it.get('firstName', '')}{' ' if it.get('firstName', '') else ''}{it.get('lastName', '')} {it.get('handle', '')}")
+</code></pre></div></div>
+:ET

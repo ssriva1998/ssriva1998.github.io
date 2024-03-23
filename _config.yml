@@ -1,6 +1,6 @@
 title: "Rep(i,n)"
 author: "Siddhartha Srivastava"
-description: "Really cool blog about ... something"
+description: "Personal blog"
 more: "read more »"
 url: "https://ssriva1998.github.io/"
 baseurl: ""
@@ -22,7 +22,7 @@ comments:
 #  isso: "comments.mysite.org"
 
 links: # see http://fontawesome.io/icons/#brand for all possible icons
-  #- twitter: "https://twitter.com/twitter/"
+  # - twitter: "https://twitter.com/twitter/"
   - github: "https://github.com/ssriva1998"
   - envelope: "mailto:ssriva1998@gmail.com"
 

@@ -1,5 +1,0 @@
-I"’<p><strong>Problem</strong>: Suppose you have an \(n \times n\) grid. Show that for any \(2n - 1\) points chosen on the grid, there exist \(3\) points that form a right-angle triangle.</p>
-
-<p><strong>Extension</strong>: Show that \(2n - 2\) points arenâ€™t sufficient to get an (axis-aligned) right-angle triangle. Is it sufficient to get any right-angle triangle (not necessarily axis-aligned)?</p>
-
-:ET

@@ -1,0 +1,8 @@
+I"K<p><strong>Problem</strong>: A basketball player has a season free throw average of \(70\%\) halfway through the season, and raises it to \(80\%\) by the end of the season.</p>
+
+<p>Is it necessarily true that it was exactly \(75\%\) at some point? Why or why not? <a href="https://twitter.com/TaterTotient/status/1563246271884042253">Source</a></p>
+
+<p><strong>Extension</strong>: For which integer triples \((a,b,c)\) can a basketball player go from a free throw average of \(a\) to \(c\) while avoiding a free throw average of \(b\).</p>
+
+<p><a href="Solution02.html">Solution</a></p>
+:ET

@@ -1,0 +1,10 @@
+I"F<p><strong>Problem</strong>: Suppose you have an \(n \times n\) grid. Show that for any \(2n - 1\) points chosen on the grid, there exist \(3\) points that form a right-angle triangle.</p>
+
+<p><strong>Solution</strong>: The standard solution here is to use the pigeon-hole principle.</p>
+
+<p>We note that the existence of an (axis-aligned) right-angle triangle is guaranteed if there exists a point such that there exists one point in the same row (i.e. with the same y-coordinate) and another point in the same column (i.e. with the same x-coordinate).</p>
+
+<p>This motivates us to try to find the number of points that share a row/column with another point. To find the minimum number of points that share a row/column with another point, we find the maximum number of points that don’t share a row/column with another point. This comes out to \(n - 1\) since we can isolate \(n-1\) points in \(n - 1\) row/columns (we can’t do \(n\) since we only have \(n\) rows and given we have \(&gt;n\) points, one row will have more than one point.)</p>
+
+<p>Therefore, the minimum number of points that share a row is \(n\). Likewise, the number of points that share a column is \(n\). Given that we have only \(2n - 1\) points, we see that there must be \(1\) point which both shares a row with another point and shares a column with another point.</p>
+:ET

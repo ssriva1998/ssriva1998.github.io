@@ -1,53 +1,5 @@
-<!DOCTYPE html>
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta charset="utf-8">
-<meta name="author" content="Siddhartha Srivastava">
-<meta name="description" content="Personal blog">
-<title> Solution 2 › Rep(i,n)</title>
-<link rel="canonical" href="http://localhost:4000/puzzles/Solution02.html">
-<link href="//fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,300italic,400italic" rel="stylesheet">
-<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
-<link href="/basic.css" rel="stylesheet">
-<link href="/index.css" rel="stylesheet">
-<link href="/highlight.css" rel="stylesheet">
-<link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="Rep(i,n)" />
-<!--  -->
-
-<header>
-  <h1><a href="">Rep(i,n)</a></h1>
-  <nav>
-    <div><a href="/">Home</a><a href="/tracking">Tracking</a><a href="/puzzles">Puzzle Blog</a><a href="/blog">Personal Blog</a></div>
-    <div><a href="https://github.com/ssriva1998"><i class="fa fa-github"></i></a><a href="mailto:ssriva1998@gmail.com"><i class="fa fa-envelope"></i></a></div>
-  </nav>
-</header>
-<main>
-  <article>
-    <header>
-      <h1><a href="/puzzles/Solution02.html">Solution 2</a></h1>
-      <time datetime="2022-08-28T00:00:00+05:30">August 28, 2022</time>
-    </header>
-    <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
-
-<div class="post">
-  <div class="post-nav">
-    <!--
-      <a class="nav-item" href="/personal/IITKonCF.html">&laquo; Prev</a>
-    
-    
-      <a class="nav-item" href="/puzzles/Puzzle02.html">Next &raquo;</a>
-    -->
-  
-    <!-- 
-      <a href="/puzzles/Puzzle02.html" class="next-link">Older Post</a>
-    
-     -->
-  </div>
-  <!-- <header class="post-header">
-    <! h1 class="post-title">Solution 2<!/h1>
-  <! /header> -->
-
-  <article class="post-content">
-    <p><strong>Problem</strong>: A basketball player has a season free throw average of \(70\%\) halfway through the season, and raises it to \(80\%\) by the end of the season.
+I"8
+<p><strong>Problem</strong>: A basketball player has a season free throw average of \(70\%\) halfway through the season, and raises it to \(80\%\) by the end of the season.
 Is it necessarily true that it was exactly \(75\%\) at some point? Why or why not?</p>
 
 <p><strong>Solution</strong>:  Let \((70\%, x_1, \dots, x_n, 80 \%)\) be the free throw averages after every free throw starting from the season’s halfway mark until the end of the season.</p>
@@ -71,22 +23,4 @@ Is it necessarily true that it was exactly \(75\%\) at some point? Why or why no
 \[qs_i &lt; pn_i \text{ and } qs_i + (p-q) &gt; pn_i\]
 
 <p>If we have \(pn_i = qs_i + 1\), we see that both equations are satsified. We know that it is always possible to find \(n_i\) and \(s_i\) such that this equation holds. To see this, note that since \(p\) and \(q\) are co-prime, there exist multiple \(n_i\) such that \(pn_i \equiv 1 \pmod{q}\). Therefore, \(pn_i = qs_i + 1\). Therefore, to avoid \(b\), we note that we can first aim to reach \(n_i\) shots with \(s_i\) successful ones while making sure that all required successful shots happen at the end (to avoid crossing \(b\) before). Then we shoot one successful free throw to get to \((s_i + 1)/(n_i + 1) &gt; b\) after which you can reach \(c\) by frontloading successful shots.</p>
-
-
-  </article>
-  <!-- -->
-</div>
-
-    
-    
-  </article>
-</main>
-
-<footer>
-
-  <a href="/puzzles/Puzzle02.html">« Puzzle 2</a>
-
- <span></span> 
-
-</footer>
- 
+:ET
