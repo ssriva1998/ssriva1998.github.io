@@ -68,6 +68,15 @@ figure {
   margin: 1em 0;
 }
 
+.twitter-tweet {
+  display: flex;
+  justify-content: center;
+  transform: scale(0.9);
+  transform-origin: center;
+  margin: 0 auto;
+  width: fit-content;
+}
+
 code {
   background-color: rgba(148, 148, 148, 0.12);
   color: gray;

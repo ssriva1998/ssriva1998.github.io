@@ -32,4 +32,4 @@ jax: ["input/TeX","output/CommonHTML"]
 
 defaults: [{scope: {path: ""}, values: {layout: "default"}}, {scope: {path: "", type: "posts"}, values: {comments: true}}]
 sass: {style: expanded}
-plugins: [jekyll-feed]
+plugins: [jekyll-feed, jekyll-twitter-plugin]

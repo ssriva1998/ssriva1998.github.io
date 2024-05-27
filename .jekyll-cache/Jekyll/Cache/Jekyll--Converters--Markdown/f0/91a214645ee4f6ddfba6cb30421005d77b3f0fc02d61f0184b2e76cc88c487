@@ -1,0 +1,23 @@
+I"<p>One of the more unfortunate aspects of IIT Kanpur culture has been the fact that most discussions around career take place based on vibes and anecdotes. You rarely see hard data on what the outcomes of certain activities are on your career. This has been on the back of my mind until I noticed this tweet.</p>
+
+<div class="jekyll-twitter-plugin"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">Before my ICPC team (Butterroti, <a href="https://twitter.com/avaitopiper?ref_src=twsrc%5Etfw">@avaitopiper</a> <a href="https://twitter.com/SureYeaah?ref_src=twsrc%5Etfw">@SureYeaah</a>), there were no Div-1 CF coders in my college<br /><br />IIT Patna had also never made it to ICPC World Finals<br /><br />Since we made it to World Finals 5/6 years between 2018-23<br /><br />Now we have 25 Div-1 coders (37 by max rating), and 1 is Red</p>&mdash; Prateek (@weights_theif) <a href="https://twitter.com/weights_theif/status/1768183586912411732?ref_src=twsrc%5Etfw">March 14, 2024</a></blockquote>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+</div>
+
+<p>I thought it might be interesting to maybe sit down and check in on what people who were doing really good at competitive programming have ended up doing and that it might be easy to gather this data since I assumed (incorrectly) that they used the Codeforces API to scrape this information. so I decided to see use it myself how many people from IIT Kanpur ever had a rating above 1900. Running a small script, I found there were roughly 98 people (though there may be a few more since some people did not set their institution as IIT Kanpur or a few less since some people ended up creating alt accounts). 98 people was a lot to analyse, so I decided to look at the people who have had at any point of time had a rating above 2100. This turned out to be roughly 38 people, who I’ve listed below.</p>
+
+<div class="sheetiframe-container">
+    <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRrvBibr6eSwRVV3ntSte_ENA9oYbD7zw8dlRQXNTXD0O6p-KtOc5BqqLN-nBKugQ/pubhtml?gid=1292932476&amp;single=true&amp;widget=true&amp;headers=false" class="sheetiframe"></iframe>
+</div>
+
+<p>This is a smaller list to analyse, so I decided to see if there are some interesting statistics. The one interesting thing is that almost everyone is doing great and was or is at a company that comes on day 1 of placements. A majority are from CSE, a few from Math and Electrical and some from Civil which is surprising. A good chunk of people are at either Glean, Rubrik or Google, which are target companies for most of the students involved. A good chunk are still currently students, but seem to have internships at trading firms, so they’re doing really good as well. I think the larger interesting point is that almost everyone who hits 2100 at any point of time does really well. In fact, they do better the CSE cohort. An apples to apples comparison isn’t really possible, but it’s an interesting statistic that there’s a higher probability of a non CSE &gt;2100 rated coder getting into Google than an average CSE student.</p>
+
+<p>It would be unfair to not discuss the few obvious flaws in this discussion.</p>
+
+<ul>
+  <li>The data is skewed towards recent graduates - due to rating inflation, it’s easier to hit 2100 now than it was 5 years ago. Codeforces is also relatively new, so lots of older alumnus didn’t use Codeforces. This means that we’re essentially analysing early career data. Only 5-6 people in this list graduated before 2020.</li>
+  <li>Competitive programming is essentially “teaching the test” - most companies have tests where you have an advantage if you’ve done competitive programming. This means that it’s relatively easy to break in early on, but it may not be a predictor of future success.</li>
+  <li>Lack of PhDs - there is a distinct lack of students who end up for PhD. In the current list, almost no one has gone for a PhD, though as discussed on point 1, it’s still early for a lot of people to know for sure whether they will end up doing a PhD.</li>
+</ul>
+:ET
