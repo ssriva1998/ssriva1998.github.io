@@ -1,4 +1,3 @@
-.github
-.jekyll-cache
-.sass-cache
-.tweet-cache
+.jekyll-cache/
+.sass-cache/
+.tweet-cache/
