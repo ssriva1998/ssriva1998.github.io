@@ -30,6 +30,9 @@ mathjax: true
 markdown: kramdown
 jax: ["input/TeX","output/CommonHTML"]
 
+# Google Analytics 4
+google_analytics: G-XXXXXXXXXX  # Replace with your Google Analytics 4 measurement ID
+
 defaults: [{scope: {path: ""}, values: {layout: "default"}}, {scope: {path: "", type: "posts"}, values: {comments: true}}]
 sass: {style: expanded}
 plugins: [jekyll-feed, jekyll-twitter-plugin]
