@@ -1,4 +1,210 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://ssriva1998.github.io//feed.xml" rel="self" type="application/atom+xml" /><link href="https://ssriva1998.github.io//" rel="alternate" type="text/html" /><updated>2026-02-12T20:52:12-05:00</updated><id>https://ssriva1998.github.io//feed.xml</id><title type="html">Rep(i,n)</title><subtitle>Personal blog</subtitle><author><name>Siddhartha Srivastava</name></author><entry><title type="html">Competitive Programming at IIT Kanpur</title><link href="https://ssriva1998.github.io//personal/IITKonCF.html" rel="alternate" type="text/html" title="Competitive Programming at IIT Kanpur" /><published>2024-03-22T00:00:00-04:00</published><updated>2024-03-22T00:00:00-04:00</updated><id>https://ssriva1998.github.io//personal/IITKonCF</id><content type="html" xml:base="https://ssriva1998.github.io//personal/IITKonCF.html"><![CDATA[<p>One of the more unfortunate aspects of IIT Kanpur culture has been the fact that most discussions around career take place based on vibes and anecdotes. You rarely see hard data on what people who took part in certain activities went on to do.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://ssriva1998.github.io//feed.xml" rel="self" type="application/atom+xml" /><link href="https://ssriva1998.github.io//" rel="alternate" type="text/html" /><updated>2026-11-16T13:17:11-05:00</updated><id>https://ssriva1998.github.io//feed.xml</id><title type="html">Rep(i,n)</title><subtitle>Personal blog</subtitle><author><name>Siddhartha Srivastava</name></author><entry><title type="html">Ratan Swarup Memorial Prize recipients at IIT Kanpur</title><link href="https://ssriva1998.github.io//personal/Ratan-Swarup-Memorial-Prize.html" rel="alternate" type="text/html" title="Ratan Swarup Memorial Prize recipients at IIT Kanpur" /><published>2026-10-11T00:00:00-04:00</published><updated>2026-10-11T00:00:00-04:00</updated><id>https://ssriva1998.github.io//personal/Ratan-Swarup-Memorial-Prize</id><content type="html" xml:base="https://ssriva1998.github.io//personal/Ratan-Swarup-Memorial-Prize.html"><![CDATA[<p>The <a href="https://www.iitk.ac.in/sspc/sspc-convocation-awards">Ratan Swarup Memorial Prize</a> is awarded to the outstanding all-rounder among graduating undergraduates at IIT Kanpur. I wanted to collect the recipients in one place because weirdly this list doesn’t really exist.</p>
+
+<h3 id="recipients">Recipients</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>Year</th>
+      <th>Recipient</th>
+      <th>Notes</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>2026</td>
+      <td>Dhruv Budhedeo (AE)</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>2025</td>
+      <td>Varun Tokas (CSE)</td>
+      <td>UPSC 2025</td>
+    </tr>
+    <tr>
+      <td>2024</td>
+      <td>Tejas Ramakrishnan (CSE)</td>
+      <td>Engineer at Samsung Electronics (South Korea)</td>
+    </tr>
+    <tr>
+      <td>2023</td>
+      <td>Nandita Gupta (MSE)</td>
+      <td>Predoctoral Associate at Development Innovation Lab-India (Mumbai)</td>
+    </tr>
+    <tr>
+      <td>2022</td>
+      <td>Atin Vikram Singh (EE)</td>
+      <td>Engineer at Samsung Electronics (South Korea)</td>
+    </tr>
+    <tr>
+      <td>2021</td>
+      <td>Yash Maheshwari (EE)</td>
+      <td>MBA Stanford GSB; earlier Blackstone, BCG</td>
+    </tr>
+    <tr>
+      <td>2020</td>
+      <td>Siddhartha Srivastava (MTH)</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>2019</td>
+      <td>Mugdha Arora (EE)</td>
+      <td>Sales Strategy &amp; Ops Manager at Verkada (San Mateo); earlier Palo Alto Networks, Wharton, CoinDCX, BCG</td>
+    </tr>
+    <tr>
+      <td>2018</td>
+      <td>Shruti Agrawal (CSE)</td>
+      <td>GTM at Sarvam AI (Bengaluru); earlier McKinsey, Blackstone, HBS MBA</td>
+    </tr>
+    <tr>
+      <td>2017</td>
+      <td>Richa Agrawal (MSE)</td>
+      <td>Counterpoint Research (Bengaluru); earlier EPFL</td>
+    </tr>
+    <tr>
+      <td>2016</td>
+      <td>Anurag Sahay (MTH)</td>
+      <td>Assistant Research Professor at Duke; earlier Visiting Assistant Professor at Purdue</td>
+    </tr>
+    <tr>
+      <td>2015</td>
+      <td>Pratik Pradyot Rath (PHY)</td>
+      <td>Assistant Professor at IIT Bombay; earlier postdoc at UC Santa Barbara</td>
+    </tr>
+    <tr>
+      <td>2014</td>
+      <td>Saumya Kapoor (CHE)</td>
+      <td>Global Sales Head at SAP (London); earlier IIM Ahmedabad, McKinsey</td>
+    </tr>
+    <tr>
+      <td>2013</td>
+      <td>Pranjal Saxena (CHE)</td>
+      <td>Principal, Strategy at Google (SF); earlier HBS MBA</td>
+    </tr>
+    <tr>
+      <td>2012</td>
+      <td>Abhinav Prateek (ME)</td>
+      <td>Product Lead at AtoB (San Bruno); earlier Wharton</td>
+    </tr>
+    <tr>
+      <td>2011</td>
+      <td>Ashish Agrawal (CSE)</td>
+      <td>Founder at Mettle Capital (Bengaluru); earlier Sequoia Capital</td>
+    </tr>
+    <tr>
+      <td>2010</td>
+      <td>Aditya Verma (ECO)</td>
+      <td>Advisory Specialist at UBS (Zurich); earlier London Business School MBA</td>
+    </tr>
+    <tr>
+      <td>2009</td>
+      <td>Varun Khaitan (EE)</td>
+      <td>Executive Director and COO at Urban Company (Delhi)</td>
+    </tr>
+    <tr>
+      <td>2008</td>
+      <td>Sameer Behere (ME)</td>
+      <td>Product Engineer at Meta (SF); earlier UCLA</td>
+    </tr>
+    <tr>
+      <td>2007</td>
+      <td>Vibhor Jain (EE)</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>2006</td>
+      <td>Vaibhav Tripathi (EE)</td>
+      <td>VP of Technology at Omni Design Technologies (Milpitas); earlier Stanford PhD (EE)</td>
+    </tr>
+    <tr>
+      <td>2005</td>
+      <td>Pushpraj Shukla (CSE)</td>
+      <td>SVP, AI Engineering at Teradata (SF); earlier SymphonyAI, MS UT Austin</td>
+    </tr>
+    <tr>
+      <td>2004</td>
+      <td>Nitin Gupta (CSE)</td>
+      <td>Associate Professor at IIT Kanpur (Biological Sciences and Bioengineering)</td>
+    </tr>
+    <tr>
+      <td>2003</td>
+      <td>Abhishek Tiwari (-)</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td><span class="gap">2002</span></td>
+      <td><span class="gap">No recipient found</span></td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>2001</td>
+      <td>Supratim Ray (EE)</td>
+      <td>Professor at IISc</td>
+    </tr>
+    <tr>
+      <td><span class="gap">1999–2000</span></td>
+      <td><span class="gap">No recipient found</span></td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>1998</td>
+      <td>Bhawna Garg (CHE)</td>
+      <td>IAS officer</td>
+    </tr>
+    <tr>
+      <td>1997</td>
+      <td>Dheeraj Pandey (CSE)</td>
+      <td>Founder at DevRev (Los Gatos); earlier co-founder at Nutanix</td>
+    </tr>
+    <tr>
+      <td><span class="gap">1989–1996</span></td>
+      <td><span class="gap">No recipient found</span></td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>1988</td>
+      <td>Naresh Chand Gupta (CSE)</td>
+      <td>Founder at AccuraCap (Noida)</td>
+    </tr>
+    <tr>
+      <td>1987</td>
+      <td>Ratnesh Kumar (EE)</td>
+      <td>Professor at Iowa State University</td>
+    </tr>
+    <tr>
+      <td><span class="gap">1986 and before</span></td>
+      <td><span class="gap">No recipient found</span></td>
+      <td> </td>
+    </tr>
+  </tbody>
+</table>
+
+<style>
+article {
+  padding-left: max(1em, calc(10% - 2em));
+  padding-right: max(1em, calc(10% - 2em));
+}
+article.post-content {
+  padding-left: 0;
+  padding-right: 0;
+}
+article.post-content > p {
+  max-width: 60em;
+}
+.gap {
+  color: #bbb;
+}
+#sources + ul {
+  font-size: 0.72em;
+  line-height: 1.35;
+}
+</style>
+
+<h3 id="sources">Sources</h3>
+
+<ul>
+  <li>Sources for each recipient and note: <a href="/assets/ratan-swarup-recipients.csv">ratan-swarup-recipients.csv</a></li>
+</ul>]]></content><author><name>Siddhartha Srivastava</name></author><category term="personal" /><category term="personal" /><summary type="html"><![CDATA[The Ratan Swarup Memorial Prize is awarded to the outstanding all-rounder among graduating undergraduates at IIT Kanpur. I wanted to collect the recipients in one place because weirdly this list doesn’t really exist. Recipients Year Recipient Notes 2026 Dhruv Budhedeo (AE) - 2025 Varun Tokas (CSE) UPSC 2025 2024 Tejas Ramakrishnan (CSE) Engineer at Samsung Electronics (South Korea) 2023 Nandita Gupta (MSE) Predoctoral Associate at Development Innovation Lab-India (Mumbai) 2022 Atin Vikram Singh (EE) Engineer at Samsung Electronics (South Korea) 2021 Yash Maheshwari (EE) MBA Stanford GSB; earlier Blackstone, BCG 2020 Siddhartha Srivastava (MTH)   2019 Mugdha Arora (EE) Sales Strategy &amp; Ops Manager at Verkada (San Mateo); earlier Palo Alto Networks, Wharton, CoinDCX, BCG 2018 Shruti Agrawal (CSE) GTM at Sarvam AI (Bengaluru); earlier McKinsey, Blackstone, HBS MBA 2017 Richa Agrawal (MSE) Counterpoint Research (Bengaluru); earlier EPFL 2016 Anurag Sahay (MTH) Assistant Research Professor at Duke; earlier Visiting Assistant Professor at Purdue 2015 Pratik Pradyot Rath (PHY) Assistant Professor at IIT Bombay; earlier postdoc at UC Santa Barbara 2014 Saumya Kapoor (CHE) Global Sales Head at SAP (London); earlier IIM Ahmedabad, McKinsey 2013 Pranjal Saxena (CHE) Principal, Strategy at Google (SF); earlier HBS MBA 2012 Abhinav Prateek (ME) Product Lead at AtoB (San Bruno); earlier Wharton 2011 Ashish Agrawal (CSE) Founder at Mettle Capital (Bengaluru); earlier Sequoia Capital 2010 Aditya Verma (ECO) Advisory Specialist at UBS (Zurich); earlier London Business School MBA 2009 Varun Khaitan (EE) Executive Director and COO at Urban Company (Delhi) 2008 Sameer Behere (ME) Product Engineer at Meta (SF); earlier UCLA 2007 Vibhor Jain (EE) - 2006 Vaibhav Tripathi (EE) VP of Technology at Omni Design Technologies (Milpitas); earlier Stanford PhD (EE) 2005 Pushpraj Shukla (CSE) SVP, AI Engineering at Teradata (SF); earlier SymphonyAI, MS UT Austin 2004 Nitin Gupta (CSE) Associate Professor at IIT Kanpur (Biological Sciences and Bioengineering) 2003 Abhishek Tiwari (-) - 2002 No recipient found   2001 Supratim Ray (EE) Professor at IISc 1999–2000 No recipient found   1998 Bhawna Garg (CHE) IAS officer 1997 Dheeraj Pandey (CSE) Founder at DevRev (Los Gatos); earlier co-founder at Nutanix 1989–1996 No recipient found   1988 Naresh Chand Gupta (CSE) Founder at AccuraCap (Noida) 1987 Ratnesh Kumar (EE) Professor at Iowa State University 1986 and before No recipient found   Sources Sources for each recipient and note: ratan-swarup-recipients.csv]]></summary></entry><entry><title type="html">Competitive Programming at IIT Kanpur</title><link href="https://ssriva1998.github.io//personal/IITKonCF.html" rel="alternate" type="text/html" title="Competitive Programming at IIT Kanpur" /><published>2024-03-22T00:00:00-04:00</published><updated>2024-03-22T00:00:00-04:00</updated><id>https://ssriva1998.github.io//personal/IITKonCF</id><content type="html" xml:base="https://ssriva1998.github.io//personal/IITKonCF.html"><![CDATA[<p>One of the more unfortunate aspects of IIT Kanpur culture has been the fact that most discussions around career take place based on vibes and anecdotes. You rarely see hard data on what people who took part in certain activities went on to do.</p>
 
 <p>This has been on the back of my mind until I noticed this tweet.</p>
 
